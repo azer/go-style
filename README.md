@@ -1,4 +1,4 @@
-## style
+## go-style
 
 Console styling library for Golang
 
@@ -7,7 +7,7 @@ Console styling library for Golang
 ## Usage
 
 ```go
-import . "github.com/azer/style.go"
+import . "github.com/azer/go-style"
 
 Style("bold yellow greenBg", "hello!!")
 ```
