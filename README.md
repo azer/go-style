@@ -1,4 +1,4 @@
-## style.go
+## style
 
 Console styling library for Golang
 
