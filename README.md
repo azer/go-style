@@ -9,19 +9,19 @@ Console styling library for Golang
 ```go
 import . "github.com/azer/style.go"
 
-Style('bold yellow greenBg', 'hello!!')
+Style("bold yellow greenBg", "hello!!")
 ```
 
 Can be also written as:
 
 ```js
-Style('bold, yellow, greenBg', 'hello!!')
+Style("bold, yellow, greenBg", "hello!!")
 ```
 
 Or
 
 ```js
-Style('.bold .yellow .greenBg', 'hello!!')
+Style(".bold .yellow .greenBg", "hello!!")
 ```
 
 ## Reference
