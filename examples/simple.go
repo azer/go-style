@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "github.com/azer/style.go"
+	. "github.com/azer/go-style"
 	"fmt"
 )
 
